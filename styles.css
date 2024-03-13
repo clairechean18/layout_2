@@ -1,0 +1,28 @@
+.borderLine, .task2 {
+    border: 1px solid black;
+    margin-top: 5px;
+    text-align: center;
+}
+
+header, .header, nav {
+    width: 100%;
+    height: 100px;
+}
+
+main {
+    width: 49%;
+    height: 55vh;
+    float: right;
+}
+
+aside {
+    width: 50%;
+    height: 55vh;
+    float: left;
+}
+
+footer {
+    width: 100%;
+    height: 140px;
+    float: left;
+}
